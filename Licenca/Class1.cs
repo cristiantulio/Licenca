@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Licenca
 {
-    public class Class1
+    public class TipoLicenca
     {
+        public string TRIAL { get; set; }
     }
 }
