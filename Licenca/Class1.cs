@@ -8,6 +8,6 @@ namespace Licenca
 {
     public class TipoLicenca
     {
-        public string TRIAL { get; set; };
+        public string TRIAL { get; set; }
     }
 }
